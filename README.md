@@ -1,5 +1,5 @@
 # SBSA
-- Somatic Binding Sequence Analysis: Somatic Binding Sequence Analyzer is developed as the first full-capacity online tool to detect somatic alterations in binding motifs of transcription factors (TFs), RNA-binding proteins, miRNA seeds, and miRNA-mRNA 3’UTR binding target et al.
+- Somatic Binding Sequence Analyzer is developed as the first full-capacity online tool to detect somatic alterations in binding motifs of transcription factors (TFs), RNA-binding proteins, miRNA seeds, and miRNA-mRNA 3’UTR binding target.
 
 - The code is based on python!
 
