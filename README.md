@@ -6,10 +6,15 @@ Somatic Binding Sequence Analysis: Somatic Binding Sequence Analyzer is develope
 #Input file:
 
 a mutation file in CVS format including five columns. 
+
 The first column reprsents the chromsome name of species or name for SARS genomes. 
+
 The second column reprsents the location of somatic mutation/SNP in genomes. 
+
 The third column reprsents the reference nucleotide of mutation site. 
+
 The forth and fifth columns reprsent the two mutation/SNP nucleotide of mutation site. 
+
 Additional, altered binding sequences can arise from single nucleotide mutations, insertion, deletion, RNA editing, or SNP. Additional, Four projects were supported in this web. A sample file was supplied in below. Where, "-" symbol in sample file reprsents deletion.
 
 
