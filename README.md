@@ -5,7 +5,7 @@ Somatic Binding Sequence Analyzer (SBSA) is developed as the first full-capacity
 
 The code is based on python!
 
-input file:
+#Input file:
 
 a mutation file in CVS format including five columns. 
 The first column reprsents the chromsome name of species or name for SARS genomes. 
@@ -19,7 +19,8 @@ The code needs the fasta file for species genomic For example: GRCH37,GRCH38,GRC
 
 
 
-Available web server :  http://www.innovebioinfo.com/Sequencing_Analysis/SBSA/Home.php
+#Available web server : 
+http://www.innovebioinfo.com/Sequencing_Analysis/SBSA/Home.php
 
 
 
