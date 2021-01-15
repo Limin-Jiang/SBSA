@@ -19,7 +19,7 @@ The code needs the fasta file for species genomic For example: GRCH37,GRCH38,GRC
 
 
 
-
+Available web server :  http://www.innovebioinfo.com/Sequencing_Analysis/SBSA/Home.php
 
 
 
