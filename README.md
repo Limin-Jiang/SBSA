@@ -18,7 +18,7 @@ The forth and fifth columns reprsent the two mutation/SNP nucleotide of mutation
 Additional, altered binding sequences can arise from single nucleotide mutations, insertion, deletion, RNA editing, or SNP. Additional, Four projects were supported in this web. A sample file was supplied in below. Where, "-" symbol in sample file reprsents deletion.
 
 
-#The code needs the fasta file for species genomic For example: GRCH37,GRCH38,GRCm37,GRCm38.
+#The code needs the fasta file for species genomic. For example: GRCH37,GRCH38,GRCm37,GRCm38.
 
 
 
