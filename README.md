@@ -24,7 +24,7 @@
 
 - Available web server : 
 
-    http://www.innovebioinfo.com/Sequencing_Analysis/SBSA/Home.php
+    http://innovebioinfo.com/Annotation/SBSA/SBSA.php
 
 
 
